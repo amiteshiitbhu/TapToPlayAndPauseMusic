@@ -1,0 +1,19 @@
+<!DOCTYPE resources [<!ENTITY app_name "Nio Reader">]>
+<resources>
+    <string name="app_name">Tapping App</string>
+    <string name="accessibility_config_description">When is on, it provides spoken feed-back so that
+    you can use
+    device without looking at the screen. This can helpful for people who have low vision.
+    To navigate using - Drag either one or two fingers to scroll
+    - Single-tap to select and hear an item - Double-tap to activate an item
+     To perform long click using  - Single-tap to select, again tap and hold
+    To open notification tray using  - Slowly move from top to down on the screen when using
+    any app
+    - Swipe down anywhere on screen when on home screen To close notification tray using
+    - Swipe up anywhere to closeTo turn off
+    - Tap the switch. You will see a outline. Then double-tap the switch.
+        - On the confirmation message, tap OK. Then double-tap OK. ></string>>
+    <string name="version_name">version1.0.0</string>
+    <string name="channel_name">Common</string>
+    <string name="channel_description">Common</string>
+</resources>
